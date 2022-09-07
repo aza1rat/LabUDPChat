@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab16-Chat Kashitsin</string>
+    <string name="ipadress">IP адрес:</string>
+    <string name="port">Порт отправки:</string>
+    <string name="nickname">Имя:</string>
+    <string name="message">Сообщение:</string>
+    <string name="send">Отправить</string>
+    <string name="sample_ip_adress">X.X.X.X</string>
+    <string name="sample_port">9000</string>
+    <string name="sample_name">Name</string>
+    <string name="receive">Получение</string>
+    <string name="settings">Настройки</string>
+    <string name="clear">Очистка</string>
+    <string name="ok">Ок</string>
+    <string name="cancel">Отмена</string>
+</resources>
